@@ -7,7 +7,9 @@ description: >-
 
 # Adonis.js 5.0 Preview ปล่อยมาให้ลองแล้ว
 
-> ! **Feature** ยังไม่ได้ครบนะ ดังนั้นคงไม่เหมาะกับงานจริง เหมาะสำหรับลองเล่นเท่านั้น
+{% hint style="warning" %}
+**Feature** ยังไม่ได้ครบนะ ดังนั้นคงไม่เหมาะกับงานจริง เหมาะสำหรับลองเล่นเท่านั้น! 
+{% endhint %}
 
 ### Feature เด็ด
 
@@ -19,7 +21,9 @@ description: >-
 
   อ่านเพิ่ม [URL Generation - AdonisJS](https://preview.adonisjs.com/guides/http/url-generate#generating-signed-urls)
 
-> ต้องมี node.js บนเครื่องก่อนนะครับ ใครยังไม่มี โหลดเลยที่ [nodejs.org](h) แนะนำเลือกเป็น version LTS
+{% hint style="info" %}
+ต้องมี node.js บนเครื่องก่อนนะครับ ใครยังไม่มี โหลดเลยที่ [nodejs.org](h) แนะนำเลือกเป็น version LTS
+{% endhint %}
 
 ### Step การสร้าง Project
 
